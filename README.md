@@ -1,114 +1,121 @@
-# 👗 Velour Paris — Luxury Fashion Boutique
-
-> *"Where elegance meets everyday life."*
-
----
-
-## 👤 Student Information
-
-| Field | Details |
-|-------|---------|
-| **Name** | UMWALI Gloria |
-| **Reg No** | 22604/2023 |
-| **Course** | E-Commerce and Web Application |
-| **Institution** | University of Lay Adventists of Kigali (UNILAK) |
-| **Academic Year** | 2025–2026, Semester II |
-| **Lecturer** | Eric Maniraguha |
-| **Submission Date** | May 28, 2026 |
+# Velour Paris 🖤✨
+### *Luxury Fashion Boutique — Where Parisian Elegance Meets Modern Style*
 
 ---
 
-## 🏪 Project Title
+## About This Project
 
-**Velour Paris** — A luxury minimalist fashion boutique offering premium clothing, accessories, and style essentials for the modern, sophisticated woman. Every piece is curated to bring Parisian elegance into everyday life.
+This is an individual e-commerce project for the **E-Commerce and Web Application** course (EWA408510) at UNILAK. The goal was to design and deploy a fully functional online fashion boutique using a no-code platform.
 
----
-
-## 🛠️ Platform Used
-
-**Wix** — [wix.com](https://wix.com)
-
-Wix was selected for its intuitive drag-and-drop editor, built-in e-commerce functionality, and its wide range of premium fashion templates. The platform enabled building a fully functional, visually polished storefront without writing a single line of code.
+**Student:** UMWALI Gloria  
+**Registration Number:** 22604/2023  
+**Lecturer:** Eric Maniraguha  
+**Academic Year:** 2025–2026 | Semester II  
+**Submission Date:** May 28, 2026  
 
 ---
 
-## ✨ Features Implemented
+## The Store
 
-### Pages
-- **🏠 Homepage** — Store name, welcome banner, featured collections, and brand statement
-- **🛍️ Product Page** — 5+ luxury fashion products with high-quality images, prices, and descriptions
-- **📖 About Page** — Brand story, mission statement, and aesthetic philosophy
-- **📞 Contact Page** — Contact form, email address, phone number, and store address
-- **🛒 Cart** — Add-to-cart functionality with item count and checkout simulation
+**Velour Paris** is a luxury fashion boutique offering curated clothing, accessories, and style essentials for the modern sophisticated woman. Every piece reflects timeless Parisian elegance and refined taste.
 
-### Design Features
-- Sleek black and gold color palette
-- Minimalist typography with elegant serif fonts
-- Responsive layout (mobile + desktop)
-- High-quality fashion imagery
-- Smooth navigation between all pages
+> *"Elegance Redefined. Parisian Luxury Awaits."*
 
 ---
 
-## 🛍️ Products Listed
+## Platform
 
-| # | Product | Price |
-|---|---------|-------|
-| 1 | Velour Silk Dress — Midnight Black | $120.00 |
-| 2 | Gold Clasp Handbag — Premium Leather | $95.00 |
-| 3 | Noir Blazer Set — Tailored Fit | $145.00 |
-| 4 | Pearl Drop Earrings — 18K Gold | $45.00 |
-| 5 | Satin Wrap Skirt — Ivory White | $85.00 |
+| Tool | Details |
+|------|---------|
+| **Platform** | Wix |
+| **Type** | No-Code / AI-Assisted |
+| **Store Feature** | Wix Stores (E-Commerce) |
+
+Wix was chosen for its powerful AI site generator (Aria), drag-and-drop editor, and built-in store functionality — making it ideal for building a polished fashion boutique without writing code.
 
 ---
 
-## 📸 Screenshots
+## Pages Built
 
-### Homepage
+| Page | Description |
+|------|-------------|
+| 🏠 Home | Hero banner, featured collection, brand tagline |
+| 🛍️ Shop | Product catalog with images, prices and descriptions |
+| 📖 About | Brand story and mission |
+| 📞 Contact Us | Contact form, email, phone, address |
+| 🛒 Cart | Add-to-cart and checkout simulation |
+
+---
+
+## Product Catalog
+
+| Product | Price |
+|---------|-------|
+| Velour Silk Dress — Midnight Black | RWF 120,000 |
+| Gold Clasp Handbag — Premium Leather | RWF 95,000 |
+| Noir Blazer Set — Tailored Fit | RWF 145,000 |
+| Pearl Drop Earrings — 18K Gold | RWF 45,000 |
+| Satin Wrap Skirt — Ivory White | RWF 85,000 |
+| Classic Silk Scarf | RWF 95 |
+| Crossbody Envelope Bag | RWF 180 |
+| Structured Shoulder Bag | RWF 220 |
+| Geometric Clutch Bag | RWF 150 |
+
+---
+
+## Screenshots
+
+**Homepage**
+
 ![Homepage](images/homepage.png)
 
-### Product Page
-![Product Page](images/products.png)
+**Product Page**
 
-### Contact Us Page
-![Contact Page](images/contactus.png)
+![Products](images/products.png)
 
-### Cart Page
-![Contact Page](images/cart.png)
+**Contact Page**
 
----
-
-## 🔗 Links
-
-| | Link |
-|-|------|
-| 🌐 **Live Website** | [Visit Velour Paris](https://gloriaumwali0.wixsite.com/velour-paris)
-| 📁 **GitHub Repository** | [github.com/umwaligloria/velour-paris](https://github.com/umwaligloria/velour-paris) |
+![Contact](images/contact-cart.png)
 
 ---
 
-## 🧩 Challenges
+## Live Links
 
-1. **Finding cohesive fashion imagery** — Sourcing high-quality, consistent product images that matched the luxury aesthetic required careful selection from free stock sites like Unsplash and Pexels.
-2. **Cart functionality on free plan** — Wix's free tier has limited checkout features. This was resolved by enabling the Wix Stores add-on which provides basic cart and product management functionality.
-3. **Color consistency** — Maintaining a consistent black and gold palette across all pages required careful customization of the chosen template's default colors.
-
----
-
-## 📚 Lessons Learned
-
-- **No-code tools empower creativity** — Wix made it possible to focus entirely on design and user experience rather than technical implementation, resulting in a more polished final product.
-- **Branding is everything** — Consistent use of color, typography, and imagery dramatically elevates how professional and trustworthy a store feels to visitors.
-- **Documentation tells your story** — A well-written README is just as important as the website itself — it communicates your process, decisions, and learning journey.
-- **GitHub is more than code** — This project showed how GitHub can be used to document and showcase design and no-code projects, making it a valuable tool for any professional portfolio.
+🌐 **Live Site:** [https://gloriaumwali0.wixsite.com/velour-paris](https://gloriaumwali0.wixsite.com/velour-paris)  
+📁 **GitHub Repo:** [https://github.com/umwaligloria/velour-paris](https://github.com/umwaligloria/velour-paris)
 
 ---
 
-## 📁 Repository Structure
+## Challenges I Faced
+
+**1. Generating a consistent aesthetic**  
+Getting Wix's AI to produce a true black-and-gold luxury look required several iterations and manual adjustments in the editor.
+
+**2. Contact page setup**  
+The AI-generated site didn't include a Contact page by default, so I had to add it manually using the Sections panel and AI generation.
+
+**3. Product pricing**  
+The auto-generated products used default pricing that didn't match the brand's luxury positioning, requiring manual updates.
+
+---
+
+## What I Learned
+
+**No-code is powerful** — Building a fully functional e-commerce store in a few hours showed me that no-code tools can produce professional results quickly.
+
+**Design thinking matters** — Every color, font and layout choice affects how a brand is perceived. Luxury brands need consistency above all.
+
+**Documentation is a skill** — Writing this README taught me to communicate my process clearly, which is a key professional skill.
+
+**GitHub beyond code** — I learned that GitHub is not just for developers — it's a powerful tool for documenting any kind of project.
+
+---
+
+## Repository Structure
 
 ```
 velour-paris/
-├── README.md          # Full project documentation
+├── README.md
 └── images/
     ├── homepage.png
     ├── products.png
@@ -117,4 +124,4 @@ velour-paris/
 
 ---
 
-*Built with ❤️ and Parisian elegance — Velour Paris, 2026*
+*UMWALI Gloria | UNILAK | EWA408510 | 2026*
