@@ -75,7 +75,11 @@ Wix was chosen for its powerful AI site generator (Aria), drag-and-drop editor, 
 
 **Contact Page**
 
-![Contact](images/contact-cart.png)
+![Contact](images/contactus.png)
+
+**Cart Page**
+
+![Cart](images/cart.png)
 
 ---
 
