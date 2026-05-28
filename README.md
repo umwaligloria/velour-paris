@@ -82,7 +82,7 @@ Wix was selected for its intuitive drag-and-drop editor, built-in e-commerce fun
 
 | | Link |
 |-|------|
-| 🌐 **Live Website** | [Visit Velour Paris](#) *(replace with your Wix link)* |
+| 🌐 **Live Website** | [Visit Velour Paris](https://gloriaumwali0.wixsite.com/velour-paris)
 | 📁 **GitHub Repository** | [github.com/umwaligloria/velour-paris](https://github.com/umwaligloria/velour-paris) |
 
 ---
